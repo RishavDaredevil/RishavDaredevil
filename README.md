@@ -15,8 +15,7 @@
 - 👯 I’m looking to collaborate on projects involving **data engineering, quantitative analysis, or machine learning**.
 - 💬 Ask me about **Python (Fastapi, Scrapy, Pandas), R (Tidyverse, Shiny), SQL, and building financial data pipelines**.
 - 📫 How to reach me: **<a href="mailto:sam.rishav2002@gmail.com">sam.rishav2002@gmail.com</a>**
-- ⚡ Fun fact: I successfully transitioned from Mechanical Engineering to the world of data and finance!
-
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rishavdhariwal/" target="_blank">
