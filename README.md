@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rishav Dhariwal</h1>
 <h3 align="center">Mechanical Engineer by degree, building data-driven financial solutions.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvaibhav19&label=Profile%20views&color=0e75b6&style=flat" alt="RishavDaredevil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RishavDaredevil&label=Profile%20views&color=0e75b6&style=flat" alt="RishavDaredevil" /> </p>
 <p align="center">
   <a href="https://rishavd.vercel.app/" target="_blank" text-decoration="none">
     Check out my portfolio
